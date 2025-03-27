@@ -260,7 +260,7 @@ E.G.
 **(注意: 文内跳转为扩展用法)**
 
 ```
-[来看看我贫瘠的仓库罢](https://github.com/Sakiyary)
+[来看看我贫瘠的仓库罢](https://github.com/HuDedong)
 [基础教程: 12. 下标](#12. 下标 [用 "~" 包围])
 ```
 
@@ -269,10 +269,10 @@ E.G.
 E.G. 
 
 <<<<<<< HEAD
+
 [来看看我贫瘠的仓库罢](https://github.com/HuDedong)
 =======
-[来看看我贫瘠的仓库罢](https://github.com/Sakiyary)
->>>>>>> bc16eb89ec480f15c35004a0127bff6962b6114c
+[来看看我贫瘠的仓库罢](https://github.com/HuDedong)
 
 [基础教程: 12. 下标](#12. 下标 [用 "~" 包围])
 
