@@ -1,6 +1,6 @@
 [TOC]
 
-# [Markdown+Typora/VSCode 超全教程] 给大一新生安利的文本神器
+# [Markdown+Typora/VS Code 超全教程] 给大一新生安利的文本神器
 
 
 
@@ -132,7 +132,9 @@ E.G.
 <<<<<<< HEAD
 
 
+
 =======
+
 >>>>>>> bc16eb89ec480f15c35004a0127bff6962b6114c
 ```
 `sudo rm -rf /*`
@@ -353,9 +355,9 @@ ___
 
 E.G. 
 
-:sweat_smile: 
-:drooling_face:
-:clown_face:
+**:sweat_smile:** 
+**:drooling_face:**
+**:clown_face:**
 
 对于其余普通的 Markdown 文本编辑器, 可以直接将 Emoji 表情复制进来, 这是直接**硬编码**的 (~~刻进DNA里~~)
 
@@ -411,6 +413,8 @@ ctrl + T 表格
 - 分割线：- - -  + enter 或*** + enter
 
   ***
+
+  
 
   
 
