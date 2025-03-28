@@ -1,6 +1,6 @@
 [TOC]
 
-# [Markdown+Typora/VS Code 超全教程] 给大一新生安利的文本神器
+# [Markdown+Typora / VS Code 超全教程] 给大一新生安利的文本神器
 
 
 
